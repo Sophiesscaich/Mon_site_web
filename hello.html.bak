@@ -13,9 +13,26 @@
 	<body>
 
 		<!-- TITRE -->
-		<div>
+		<div id="top-banner">
 			Bienvenue dans cette formation GIT !
 		</div>
-		
+			Le secret du bonheur sous la pluie
+		<!-- description-->
+		<div>
+			<h1> Ma description </h1>
+			<p> Je m'appelle Sophie et je suis en formation </p>
+			
+		<!-- Mes recettes-->
+		<div>
+			<h1> Mes recettes </h1>
+			<p> J'aime le gateau au chocolat et le thé vert </p>
+		<!-- Mes recettes-->
+		<div>
+			<h1> Mes recettes </h1>
+			<p> J'aime le gateau au chocolat et le thé vert </p>
+			<!-- Mes recettes-->
+		<div>
+			<h1> Mes recettes </h1>
+			<p> J'aime le gateau au chocolat et le thé vert </p>
 	
 </body></html>
